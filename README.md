@@ -5,7 +5,7 @@ Hi all applicants! Welcome to TakeMeTour Internship Program 2018. Being and inte
 ## Algorithm in Javascript
 Code must be writted in Javascript language. The code will be tested with Node8, so you can use all Javascript features that equivalent to Node8.
 
-1. Please write a function that shift the elements of array to left or right by n elements in infinity loop. the function recevice 3 parameters, 1st is an array, 2nd the is direction ('left' or 'right'), 3rd is the number of elements will be shifted
+1. Write a function that shift the elements of array to left or right by n elements in infinity loop. the function recevice 3 parameters, 1st is an array, 2nd the is direction ('left' or 'right'), 3rd is the number of elements will be shifted. For example,
 ```
 > shift(['john', 'jane', 'sarah', 'alex'], 'left', 2)
 ['sarah', 'alex', 'john', 'jane']
@@ -17,13 +17,12 @@ Answer:
 ```
 -- insert your answer here
 ```
-2. Please write a function that calculate nth number of fibonacci sequence. For example,
-```
-> fibo 1
-0
-> fibo 5
-3
-```
+2. Download [hero.json](https://github.com/takemetour/job-quest-intern-2018/blob/master/hero.json) and write a code to caculate these values
+- 2.1 Average networth of all heroes
+- 2.2 Average level for hero that has 'intelligent' as primary_attribute
+- 2.3 Find the most assist hero
+- 2.4 Find the worst kill/death ratio hero (ratio = kill/death)
+
 Answer:
 ```
 -- insert your answer here
