@@ -17,11 +17,11 @@ Answer:
 ```
 -- insert your answer here
 ```
-2. Download [hero.json](https://github.com/takemetour/job-quest-intern-2018/blob/master/hero.json) and write a code to caculate these values
-- 2.1 Average networth of all heroes
-- 2.2 Average level for hero that has 'intelligent' as primary_attribute
-- 2.3 Find the most assist hero
-- 2.4 Find the worst kill/death ratio hero (ratio = kill/death)
+2. Download [hero.json](https://github.com/takemetour/job-quest-intern-2018/blob/master/hero.json) and write a code to caculate these values from **hero.json**
+- 2.1 Average **networth** of all heroes
+- 2.2 Average **level** for hero that has 'intelligent' as **primary_attribute**
+- 2.3 Find the hero who got the most **assist**
+- 2.4 Find the hero who got the worst **kill/death ratio** (ratio = kill/death)
 
 Answer:
 ```
@@ -42,7 +42,7 @@ This part of quest will be a challenging one. You are going to make a simple web
 ### Technical description
 - Using data from [REST API](http://www.icndb.com/api/)
 - Any tools & framework is allowed.
-- If you are using tools & framework which is same as our tech stack (React, Redux, styled-components etc.) will be a plus.
+- If you are using tools & framework which is same as our tech stack (React, Redux, styled-components, recompose etc.) will be a plus.
 - Any extra feature will be a plus.
 
 ## Questions
