@@ -29,6 +29,23 @@ Answer:
 -- insert your answer here
 ```
 
+## Simple Web Application: A joke from Chuck Norris.
+
+This part of quest will be a challenging one. You are going to make a simple web application which allow users to get some joke from **Chuck Norris** himself.
+
+> Chuck Norris once ordered a Big Mac at Burger King, and got one.
+
+### Features
+- Users can get a joke from [Chuck Norris API](http://www.icndb.com/api/)
+- Users has options to change number of result jokes, user's first name and last name
+- UI Design as you wish.
+
+### Technical description
+- Using data from [REST API](http://www.icndb.com/api/)
+- Any tools & framework is allowed.
+- If you are using tools & framework which is same as our tech stack (React, Redux, styled-components etc.) will be a plus.
+- Any extra feature will be a plus.
+
 ## Questions
 Q1: What is GraphQL and how it is different from REST API?
 
