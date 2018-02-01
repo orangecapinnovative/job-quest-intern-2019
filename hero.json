@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Sven",
+    "networth": 48000,
+    "level": 16,
+    "kill": 8,
+    "death": 2,
+    "assist": 3,
+    "primary_attribute": "strength"
+  },
+  {
+    "name": "Lina",
+    "networth": 53000,
+    "level": 18,
+    "kill": 10,
+    "death": 1,
+    "assist": 1,
+    "primary_attribute": "intelligent"
+  },
+  {
+    "name": "Maiden",
+    "networth": 22000,
+    "level": 12,
+    "kill": 2,
+    "death": 6,
+    "assist": 10,
+    "primary_attribute": "intelligent"
+  },
+  {
+    "name": "Juggernauth",
+    "networth": 61000,
+    "level": 18,
+    "kill": 7,
+    "death": 0,
+    "assist": 0,
+    "primary_attribute": "agility"
+  },
+  {
+    "name": "Doom",
+    "networth": 76000,
+    "level": 17,
+    "kill": 4,
+    "death": 3,
+    "assist": 3,
+    "primary_attribute": "strength"
+  },
+  {
+    "name": "Slark",
+    "networth": 59000,
+    "level": 19,
+    "kill": 8,
+    "death": 0,
+    "assist": 0,
+    "primary_attribute": "agility"
+  },
+  {
+    "name": "IO",
+    "networth": 27000,
+    "level": 13,
+    "kill": 1,
+    "death": 4,
+    "assist": 14,
+    "primary_attribute": "intelligent"
+  }
+]
