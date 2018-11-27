@@ -61,6 +61,6 @@ A3: <insert your answer here>
 
 ## Submitting
 
-Please fork this repo and submit your repository at jet@takemetour.com along with your contact information.
+Please fork this repo and submit your repository at benz@takemetour.com along with your contact information and also your resume if you have one.
 
 Note: These challenges must be done by yourself. There is no benefit for both sides if the answer do not reflect your true skill.
