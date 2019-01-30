@@ -1,6 +1,6 @@
-### TakeMeTour Internship Program 2018
+### TakeMeTour Internship Program 2019
 
-Hi all applicants! Welcome to TakeMeTour Internship Program 2018. Being an intern at TakeMeTour is challenging so we have challenges for you! These challenges are designed to assess your learning skill, which is the fundamental and most important skill of a great software developer. So I do not expect you to have full or any knowledge about the topic beforehand but it's your job to try to learn and answer those challenges.
+Hi all applicants! Welcome to TakeMeTour Internship Program 2019. Being an intern at TakeMeTour is challenging so we have challenges for you! These challenges are designed to assess your learning skill, which is the fundamental and most important skill of a great software developer. So I do not expect you to have full or any knowledge about the topic beforehand but it's your job to try to learn and answer those challenges.
 
 ## Algorithm in Javascript
 Code must be written in Javascript language. The code will be tested with Node8, so you can use all Javascript features that are available in Node8.
@@ -17,7 +17,7 @@ Answer:
 ```
 -- insert your answer here
 ```
-2. Download [hero.json](https://github.com/takemetour/job-quest-intern-2018/blob/master/hero.json) and write a code to calculate these values from **hero.json**
+2. Download [hero.json](https://github.com/takemetour/job-quest-intern-2019/blob/master/hero.json) and write a code to calculate these values from **hero.json**
 - 2.1 Average **networth** of all heroes
 - 2.2 Average **level** for hero that has 'intelligent' as **primary_attribute**
 - 2.3 Find the hero who got the most **assist**
